@@ -83,11 +83,11 @@ custom_fields:
    type: boolean
    required: True
  - name: how_did_you_hear
-   label: 'How did you hear about RedPandaHacks?'
+   label: 'How did you hear about TechTogether Boston?'
    type: multiselect
    required: True
    options:
-    - I previously attended RedPandaHacks
+    - I previously attended 
     - From the MLH website
     - From TechTogether NY
     - From another MLH event
